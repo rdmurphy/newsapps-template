@@ -1,0 +1,19 @@
+{
+  "name": "newsapps-app-template",
+  "version": "0.0.1",
+  "description": "Get off on the right foot with newsapps-app-template!",
+  "main": "index.html",
+  "author": "Texas Tribune News Apps",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "gulp": "^3.6.0",
+    "gulp-ruby-sass": "^0.4.1",
+    "gulp-include": "^0.2.2",
+    "gulp-concat": "^2.2.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-cssmin": "^0.1.4",
+    "gulp-jshint": "^1.5.2",
+    "jshint-stylish": "^0.1.5",
+    "gulp-browserify": "^0.5.0"
+  }
+}
